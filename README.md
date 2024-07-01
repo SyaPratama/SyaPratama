@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2>😎 Contribution Saya 😎</h2>
-  <br>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RasyaPrtma/RasyaPrtma/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
@@ -52,7 +52,7 @@
 <hr/>
 
 <h2 align="center">👾 Statistic Saya 👾</h2>
-<br>
+<br/>
 
 <div align=center>
  <img width=390 src="https://github-readme-stats-sya.vercel.app/?user=SyaPratama&theme=tokyonight" alt="GitHub Streak" />
@@ -63,7 +63,6 @@
 
 <hr/>
 
-<br/>
 <br/>
 
 <h1 align="center">
