@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Hii+Minaa+😋😋;+Selamat+Datang+Di+Github+Saya+😎" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Hallo+Minaa+😋;+Selamat+Datang" />
 </h1>
 
 <h3 align="center">Saya Programmer FullStack</h3>
@@ -67,5 +67,5 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Sekian+Perkenala+Saya+Terima+Kasih+😁;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Sekian+Perkenalan+Saya;+Terima+Kasih+😁;" />
 </h1>
