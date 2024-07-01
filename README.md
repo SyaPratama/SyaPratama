@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🤓 Saya Masih Seorang Siswa **In HighSchool**
+ 🤓 Saya Masih Seorang Siswa **SMKN 1 KANDEMAN**
  
  🔱 Saya Menggunakan **Javascript, Php, Hapi JS, React,Next Js, Tailwind, Boostrap, AWS**
 
