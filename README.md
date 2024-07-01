@@ -54,7 +54,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img src="https://github-readme-streak-stats-five-eosin.vercel.app?user=RasyaPrtma&theme=tokyonight&hide_border=true&border_radius=10&locale=id&card_width=500&card_height=200" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=SyaPratama&theme=tokyonight-duo&hide_border=true&border_radius=10&locale=id)](https://git.io/streak-stats)
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
