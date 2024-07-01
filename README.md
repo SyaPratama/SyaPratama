@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🙂‍↔️ Saya Masih Seorang Siswa **In HighSchool**
+ 🤓 Saya Masih Seorang Siswa **In HighSchool**
  
  🔱 Saya Menggunakan **Javascript, Php, Hapi JS, React,Next Js, Tailwind, Boostrap, AWS**
 
-🧐 Fun fact **Bumi Itu Bulat Loh**
+ 🧐 Fun fact **Bumi Itu Bulat Loh**
 
  </div>
  
