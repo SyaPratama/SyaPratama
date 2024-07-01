@@ -57,7 +57,7 @@
 <div align=center>
  <img src="https://github-readme-stats-sya.vercel.app/?user=SyaPratama&theme=tokyonight" alt="GitHub Streak" />
   <img width=390 align="center" src="https://github-readme-stats-syapratama.vercel.app/api?username=SyaPratama&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="top langs" />
-  <img width=325 src="https://github-readme-stats-zeta-lilac.vercel.app/api?username=SyaPratama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats-syapratama.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" alt="readme stats" />
 </div>
 <br/><br/>
 
