@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 Saya Masih Seorang Siswa **In HighSchool**
+ 🙂‍↔️ Saya Masih Seorang Siswa **In HighSchool**
  
- 🌱 Saya Belajar Seperti **Javascript, Php, Hapi JS, React, Tailwind, Boostrap, AWS**
+ 🔱 Saya Menggunakan **Javascript, Php, Hapi JS, React,Next Js, Tailwind, Boostrap, AWS**
 
-⚡ Fun fact **Bumi Itu Bulat**
+🧐 Fun fact **Bumi Itu Bulat Loh**
 
  </div>
  
@@ -51,7 +51,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">👾 Statistic Saya 👾</h2>
 <br>
 
 <div align=center>
