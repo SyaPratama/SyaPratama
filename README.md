@@ -10,7 +10,7 @@
  
  🤓 Saya Masih Seorang Siswa **SMKN 1 KANDEMAN**
  
- 🔱 Saya Menggunakan **Javascript, Php, Hapi JS, React,Next Js, Tailwind, Boostrap, AWS**
+ 🔱 Saya Sedang Belajar **Next JS,Typescript**
 
  🧐 Fun fact **Bumi Itu Bulat Loh**
 
@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql,php,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql,java,c#,c++,php,laravel" /><br>
 </div>
 
 <br/>
