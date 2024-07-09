@@ -1,4 +1,4 @@
-![Header](./img/[banner.png]);
+![Header](./img/banner.png);
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Hallo+Minaa+😋;+Selamat+Datang" />
