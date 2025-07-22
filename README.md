@@ -1,20 +1,20 @@
-![Header](./img/banner.png)
+![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)![Header](./img/banner.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=What's+up+Nigga+🫷;+ Welcome+Everynyan+Im+Indonesian+People+And I'm+Half+Nigga" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Welcome+Guys+😉;" />
 </h1>
 
-<h3 align="center">Saya Programmer FullStack</h3>
+<h3 align="center">Saya seseorang Pengembang Website Fullstack dan juga Game Developer Junior. yang suka sekali akan pengetahuan baru dan selalu ingin belajar hal-hal baru</h3>
 
 <br/>
 
 <div align="center">
  
- 🤓 Saya Masih Seorang Siswa **SMKN 1 KANDEMAN**
- 
- 🔱 Saya Sedang Belajar **Next JS,Typescript**
+ 🤓 Saya mahasiswa di salah satu Universitas Yogyakarta yaitu **Universitas Teknologi Yogyakarta ( UTY )**
+    
+ 🎶 Saya suka mengulik hal baru dan belajar hal-hal baru terkait hobi saya.
 
- 🧐 Fun fact **Bumi Itu Bulat Loh**
+ 🧐 Fun fact **Saya menyukai mie ayam 😋😋**
 
  </div>
  
