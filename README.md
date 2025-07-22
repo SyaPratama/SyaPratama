@@ -1,3 +1,5 @@
+![Header](./img/banner.png)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Welcome+Guys+😉;" />
 </h1>
@@ -80,7 +82,10 @@
 
 <br/>
 
-![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)![Header](./img/banner.png)
+<h1 align="center">
+    
+![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)
+</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Sekian+Perkenalan+Saya;+Arigatou+😁;" />
