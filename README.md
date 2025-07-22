@@ -50,7 +50,11 @@
 <div align="center">
   <h2>😎 Contribution Saya 😎</h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RasyaPrtma/RasyaPrtma/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
+</picture>
   
   <br/><br/><br/>
 </div>
