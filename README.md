@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Welcome+Guys+😉;" />
 </h1>
 
-<h3 align="center">Saya seseorang Pengembang Website Fullstack dan juga Game Developer Junior. yang suka sekali akan pengetahuan baru dan selalu ingin belajar hal-hal baru</h3>
+<h3 align="center">Saya seseorang Pengembang Website Fullstack dan juga Game Developer Junior. yang suka sekali akan pengetahuan baru dan selalu ingin belajar hal-hal. baru</h3>
 
 <br/>
 
