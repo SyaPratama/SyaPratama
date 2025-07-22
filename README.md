@@ -81,7 +81,7 @@
 <br/>
 
 <div align="center">
-    ![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)![Header](./img/banner.png)
+![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)![Header](./img/banner.png)
 </div>
 
 <h1 align="center">
