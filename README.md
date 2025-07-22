@@ -55,7 +55,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
 </picture>
-  
+
+[![SyaPratama_Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SyaPratama&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/><br/><br/>
 </div>
 
