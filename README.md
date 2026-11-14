@@ -1,81 +1,71 @@
-![Header](./img/banner.png)
+<p align="center">
+  <img src="./img/banner.png" alt="Profile banner" width="100%" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Rasya+👋;Full-Stack+Developer;Junior+Game+Developer" />
-</h1>
+<h1 align="center">Rasya Putra Pratama</h1>
 
-<h3 align="center">Full-stack web developer and junior game developer based in Batang, Central Java, Indonesia. I like picking up new tools and shipping things that hold up.</h3>
+<p align="center">
+  <strong>Full-Stack Developer · Junior Game Developer</strong><br>
+  Batang, Central Java, Indonesia
+</p>
 
-<br/>
+<p align="center">
+  <em>Open for Internship, Freelance, and Remote roles · Focused on ML/AI Engineering and Robotics for the future</em>
+</p>
 
 <div align="center">
-
-🎓 Student at **Universitas Teknologi Yogyakarta (UTY)**
-
-🧪 Mostly writing TypeScript, Python and Rust lately
-
-🍜 Fun fact **I could eat mie ayam every day**
-
+  <a href="mailto:inirasya16@gmail.com"><img src="https://img.shields.io/badge/Gmail-inirasya16@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/SyaPratama"><img src="https://img.shields.io/badge/GitHub-SyaPratama-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rasya-putra-pratama-826497329"><img src="https://img.shields.io/badge/LinkedIn-Rasya_Pratama-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://syapratama.vercel.app"><img src="https://img.shields.io/badge/Portfolio-syapratama.vercel.app-56F7F5?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://dev.to/syapratama"><img src="https://img.shields.io/badge/Dev.to-syapratama-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://instagram.com/lazytama.dev"><img src="https://img.shields.io/badge/Instagram-@lazytama.dev-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Discord-syapratama-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: syapratama" />
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <a href="mailto:inirasya16@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/rasya-putra-pratama-826497329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://syapratama.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://instagram.com/lazytama.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/RasyaPratama6P"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@thelazytama"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://dev.to/syapratama"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://stackoverflow.com/users/27374574/rasya-pratama"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <img src="https://img.shields.io/badge/Discord-syapratama-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: syapratama" />
-</div>
+## About
 
-<hr/>
+Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web platforms, system tools, and game prototypes. Currently developing full-stack architectures and machine learning forecasting services, with long-term focus toward ML/AI engineering and robotics. Outside of programming, I enjoy studying new technical patterns, experimenting with game mechanics, and eating mie ayam.
 
-<h2 align="center">Featured work</h2>
+## Featured Projects
 
-- **[PasokanMataram](https://github.com/SyaPratama/PasokanMataram)** — B2B SaaS for collective food procurement, linking farmer groups (Gapoktan) with HoReCa buyers in Yogyakarta. Next.js monorepo, strict TypeScript, NestJS, PostgreSQL RLS, escrow settlement, ML price forecasting. Live at [pasok.syapratama.tech](https://pasok.syapratama.tech).
-- **[MLPasokanMataram](https://github.com/SyaPratama/MLPasokanMataram)** — multi-horizon food price forecasting and BMKG weather risk inference. FastAPI, LightGBM, MLflow, Docker.
-- **[9router-rust](https://github.com/SyaPratama/9router-rust)** — low-latency AI request router in Rust across 40+ providers, with provider fallback and a Docker image.
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| [PasokanMataram](https://github.com/SyaPratama/PasokanMataram) | B2B agri-supply platform connecting farmer groups (Gapoktan) with HoReCa buyers. Built with escrow settlement and price forecasting. | Next.js, NestJS, TypeScript, PostgreSQL RLS, Redis | [Live Demo](https://pasok.syapratama.tech) |
+| [MLPasokanMataram](https://github.com/SyaPratama/MLPasokanMataram) | Microservice delivering food price forecasting and BMKG weather risk inference. | Python, FastAPI, LightGBM, MLflow, Docker | Active |
+| [9router-rust](https://github.com/SyaPratama/9router-rust) | Low-latency AI request router with automatic provider fallback across 40+ endpoints. | Rust, Docker | Active |
+| FindMoney | Atmospheric narrative horror game exploring custom lighting and sound cues. | Godot Engine, GDScript | Private |
+| ViCore | Story-driven simulation game built around branching narrative paths and choices. | C# | Private |
 
-<hr/>
+## Stack
 
-<h2 align="center">Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nestjs,nodejs,npm,postgres,redis,docker,git,github,githubactions,vercel,linux,vscode,figma,postman,python,fastapi,rust,godot" alt="Stack: Next.js, React, TypeScript, JavaScript, Tailwind CSS, NestJS, Node.js, npm, PostgreSQL, Redis, Docker, Git, GitHub, GitHub Actions, Vercel, Linux, VS Code, Figma, Postman, Python, FastAPI, Rust, Godot" />
-</p>
-
-<hr/>
-
-<h2 align="center">Stats</h2>
+- **Languages:** TypeScript, JavaScript, Python, Rust, C#, GDScript, PHP
+- **Frontend:** Next.js, React, Tailwind CSS, Blade, HTML5, CSS3
+- **Backend:** NestJS, Node.js, FastAPI, Express
+- **Databases & Cache:** PostgreSQL, Redis, MySQL
+- **DevOps & Tools:** Docker, Git, GitHub Actions, Vercel, Linux, VS Code, Figma, Postman, npm
+- **Game & Creative:** Godot Engine, Canvas API, Blender
 
 <p align="center">
-  <img src="/github-metrics.svg" width="100%" alt="GitHub metrics: activity, repositories, language breakdown, commit calendar and achievements" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,cs,godot,nextjs,react,tailwind,nestjs,nodejs,fastapi,postgres,redis,docker,git,githubactions,vercel,linux,vscode,figma,postman" alt="Tech Stack Icons" />
 </p>
 
-<p align="center"><sub>Rendered daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — see <a href=".github/workflows/metrics.yml">the workflow</a>.</sub></p>
-
-<hr/>
-
-<h2 align="center">Contributions</h2>
+## Activity
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
-</picture>
+  <img src="./github-metrics.svg" alt="GitHub Metrics: activity, repositories, language breakdown, and commit calendar" width="100%" />
 </p>
 
-<hr/>
+<p align="center">
+  <sub>Generated automatically via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> with GitHub Actions.</sub>
+</p>
 
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f" alt="" />
-</h1>
+## Contact
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=That's+all+for+now;Thanks+for+visiting+😁" />
-</h1>
+I am open to internship positions, freelance development, and remote software engineering opportunities.
+
+- **Email:** [inirasya16@gmail.com](mailto:inirasya16@gmail.com)
+- **LinkedIn:** [rasya-putra-pratama](https://www.linkedin.com/in/rasya-putra-pratama-826497329)
+- **Portfolio:** [syapratama.vercel.app](https://syapratama.vercel.app)
