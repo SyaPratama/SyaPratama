@@ -1,0 +1,22 @@
+{
+  "harness": "pi",
+  "provider": "openai",
+  "size": "small",
+  "nodes": {
+    "worker": {
+      "kind": "agent",
+      "model": "gpt-4o",
+      "sessionScope": "node_instance"
+    },
+    "acceptance": {
+      "kind": "agent",
+      "model": "gpt-4o",
+      "effort": "high"
+    },
+    "code": {
+      "kind": "agent",
+      "model": "gpt-4o",
+      "effort": "high"
+    }
+  }
+}
