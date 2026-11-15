@@ -55,7 +55,7 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
 ## Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Terminal-style GitHub statistics and language breakdown" width="100%" />
+  <img src="./github-metrics.svg" alt="Terminal-style GitHub statistics" width="100%" />
 </p>
 
 <p align="center">
