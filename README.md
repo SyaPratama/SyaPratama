@@ -67,7 +67,7 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
 ## Development Activity
 
 <p align="center">
-  <img src="./github-activity.svg" alt="GitHub activity, coding habits, issue follow-up, and notable contributions" width="100%" />
+  <img src="./github-activity.svg" alt="Status of public issues and pull requests created by Rasya" width="100%" />
 </p>
 
 <details>
@@ -76,7 +76,13 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
 ### PasokanMataram
 
 <p align="center">
-  <img src="./project-insights.svg" alt="PasokanMataram languages, changed lines, contributors, and license" width="100%" />
+  <img src="./project-insights.svg" alt="PasokanMataram repository overview, languages, and changed lines" width="100%" />
+</p>
+
+### Contributors
+
+<p align="center">
+  <img src="./project-contributors.svg" alt="PasokanMataram contributors and contribution counts" width="100%" />
 </p>
 
 ### Portfolio performance
