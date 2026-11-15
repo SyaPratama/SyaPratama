@@ -11,22 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # GITHUB_TOKEN keeps setup at zero secrets; private-repo plugins need a PAT instead.
-          token: ${{ secrets.GITHUB_TOKEN }}
-          template: terminal
-          filename: github-metrics.svg
-          config_timezone: Asia/Jakarta
-          config_animations: no
-          base: header, metadata
-          repositories_forks: no
-      - uses: lowlighter/metrics@latest
+      - name: Commit calendar
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-contributions.svg
           config_timezone: Asia/Jakarta
           config_animations: no
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+      - name: Pull request and issue follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-activity.svg
+          config_timezone: Asia/Jakarta
+          config_animations: no
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_archived: no

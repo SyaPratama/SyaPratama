@@ -55,18 +55,21 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
 ## Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Terminal-style GitHub statistics" width="100%" />
-</p>
-
-<p align="center">
-  <sub>Generated automatically via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> with GitHub Actions.</sub>
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=SyaPratama&amp;theme=tokyonight&amp;headerStyle=retro&amp;typingSpeed=80" alt="Animated terminal showing public GitHub statistics" width="100%" />
 </p>
 
 ## Contributions
 
 <p align="center">
-  <img src="./github-contributions.svg" alt="Full-year isometric GitHub contribution calendar" width="100%" />
+  <img src="./github-contributions.svg" alt="GitHub commit calendar for the current year" width="100%" />
 </p>
+
+## Development Activity
+
+<p align="center">
+  <img src="./github-activity.svg" alt="Status of public issues and pull requests created by Rasya" width="100%" />
+</p>
+
 
 ## Contact
 
