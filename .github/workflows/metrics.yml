@@ -11,6 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Terminal stats
+        uses: yogeshwaran01/github-stats-terminal-style@v1.0.0
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          theme: tokyonight
+          headerStyle: retro
+          commands: whoami,languages,top-repos,uptime,exit
+          outputPath: github_stats.svg
+      - name: Commit terminal stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github_stats.svg
+          git diff --cached --quiet || (git commit -m "chore: update terminal stats [skip ci]" && git push)
       - name: Commit calendar
         uses: lowlighter/metrics@latest
         with:
