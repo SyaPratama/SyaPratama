@@ -71,21 +71,7 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
 </p>
 
 <details>
-<summary><strong>Project and portfolio insights</strong></summary>
-
-### PasokanMataram
-
-<p align="center">
-  <img src="./project-insights.svg" alt="PasokanMataram repository overview, languages, and changed lines" width="100%" />
-</p>
-
-### Contributors
-
-<p align="center">
-  <img src="./project-contributors.svg" alt="PasokanMataram contributors and contribution counts" width="100%" />
-</p>
-
-### Portfolio performance
+<summary><strong>Portfolio performance</strong></summary>
 
 <p align="center">
   <img src="./pagespeed.svg" alt="PageSpeed report for syapratama.vercel.app" width="100%" />
