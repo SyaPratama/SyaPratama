@@ -70,14 +70,6 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
   <img src="./github-activity.svg" alt="Status of public issues and pull requests created by Rasya" width="100%" />
 </p>
 
-<details>
-<summary><strong>Portfolio performance</strong></summary>
-
-<p align="center">
-  <img src="./pagespeed.svg" alt="PageSpeed report for syapratama.vercel.app" width="100%" />
-</p>
-
-</details>
 
 ## Contact
 
