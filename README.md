@@ -52,14 +52,20 @@ Undergraduate student at **Universitas Teknologi Yogyakarta (UTY)** building web
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,cs,godot,nextjs,react,tailwind,nestjs,nodejs,fastapi,postgres,redis,docker,git,githubactions,vercel,linux,vscode,figma,postman" alt="Tech Stack Icons" />
 </p>
 
-## Activity
+## Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics: activity, repositories, language breakdown, and commit calendar" width="100%" />
+  <img src="./github-metrics.svg" alt="Terminal-style GitHub statistics and language breakdown" width="100%" />
 </p>
 
 <p align="center">
   <sub>Generated automatically via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> with GitHub Actions.</sub>
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="./github-contributions.svg" alt="Full-year isometric GitHub contribution calendar" width="100%" />
 </p>
 
 ## Contact
